@@ -13,6 +13,7 @@ $(function(){
           wordsArray=(wordsArray + 'ay');
 
         }
+        console.log("hi test")
         // if( vow.includes(wordsArray[index])){
         //
         //   newStringArray[index]="-";

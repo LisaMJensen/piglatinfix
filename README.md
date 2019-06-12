@@ -34,22 +34,7 @@ _{Let people know what to do if they run into any issues or have questions, idea
 | **The program adds "ay" to single-letter words.**| Example Input: i | Example Output: iay |
 | **The program checks the first letter, if vowel adds way to the end of word.**| Example Input: eat | Example output: eatway |
 | **If the first letter is not a vowel, check next letters until reaching a vowel, then move previous letters to end and add ay.** | Example input: chocolate | Example output: ocolatechay |
-| **Program Sums Character Values**| Input: "3 1 1 1 1" | Page Displays: 7 |
-* _The program does nothing to non-alphabetical characters, since they do not contain consonants or vowels.
-Example Input: 3
-Example Output: 3_
-* _The program adds "ay" to single-letter words.
-Example Input: i
-Example Output: iay_
-* _The program checks the first letter, if vowel adds way to the end of word.
-Example Input: eat
-Example output: eatway_
-* _If the first letter is not a vowel, check next letters until reaching a vowel, then move previous letters to end and add ay.
-Example input: chocolate
-Example output: ocolatechay_
-* _Find ' ' spots in string and separate between these into words.
-Example input: my name is joe
-Example output: my, name, is, joe_
+| **Find ' ' spots in string and separate between these into words.**| Example input: my name is joe | Example output: my, name, is, joe |
 * _ _
 * _ _
 * _ _
